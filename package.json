@@ -1,0 +1,34 @@
+{
+  "name": "AxeGainsUI",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.3"
+  },
+  "scripts": {
+    "admin-start": "cd sites/admin; react-scripts start",
+    "admin-build": "cd sites/admin; react-scripts build",
+    "admin-test": "cd sites/admin; react-scripts test",
+    "admin-eject": "cd sites/admin; react-scripts eject",
+
+    "league-start": "cd sites/league; react-scripts start",
+    "league-build": "cd sites/league; react-scripts build",
+    "league-test": "cd sites/league; react-scripts test",
+    "league-eject": "cd sites/league; react-scripts eject",
+
+    "practice-start": "cd sites/practice; react-scripts start",
+    "practice-build": "cd sites/practice; react-scripts build",
+    "practice-test": "cd sites/practice; react-scripts test",
+    "practice-eject": "cd sites/practice; react-scripts eject",
+
+    "tournament-start": "cd sites/tournament; react-scripts start",
+    "tournament-build": "cd sites/tournament; react-scripts build",
+    "tournament-test": "cd sites/tournament; react-scripts test",
+    "tournament-eject": "cd sites/tournament; react-scripts eject"
+  }
+}
