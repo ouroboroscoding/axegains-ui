@@ -29,6 +29,11 @@
     "tournament-start": "cd sites/tournament; react-scripts start",
     "tournament-build": "cd sites/tournament; react-scripts build",
     "tournament-test": "cd sites/tournament; react-scripts test",
-    "tournament-eject": "cd sites/tournament; react-scripts eject"
+    "tournament-eject": "cd sites/tournament; react-scripts eject",
+
+    "venue-start": "cd sites/venue; react-scripts start",
+    "venue-build": "cd sites/venue; react-scripts build",
+    "venue-test": "cd sites/venue; react-scripts test",
+    "venue-eject": "cd sites/venue; react-scripts eject"
   }
 }
